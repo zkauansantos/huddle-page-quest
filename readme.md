@@ -8,7 +8,7 @@ Aprimorando cada vez mais meu html e css responsivo, dessa vez na quest do curso
 
 ---
 
-[<img src="./src/Desktop.gif" alt="foto do projeto ">]()
+[<img src="./src/Desktop.gif" alt="foto do projeto ">](https://zkauansantos.github.io/huddle-page-quest/)
 
 <br>
 
@@ -16,7 +16,7 @@ Aprimorando cada vez mais meu html e css responsivo, dessa vez na quest do curso
 
 ---
 
-[<img src="./src/Animação.gif" alt="">]()
+[<img src="./src/Animação.gif" alt="">](https://zkauansantos.github.io/huddle-page-quest/)
 <br>
 
 ## Tecnologias Utilizadas
@@ -32,3 +32,4 @@ Aprimorando cada vez mais meu html e css responsivo, dessa vez na quest do curso
 ## Link Hospedado no GitHub pages
 
 ---
+https://zkauansantos.github.io/huddle-page-quest/
